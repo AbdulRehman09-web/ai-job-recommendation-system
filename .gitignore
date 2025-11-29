@@ -25,6 +25,10 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+mcp_server.py
+AI Job Recommendation.mp4
+myenv/
+__init__.py
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
