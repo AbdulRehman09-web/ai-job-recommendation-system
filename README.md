@@ -50,10 +50,8 @@ This makes it a **complete AI-powered career assistant**.
 
 ## 🖥️ **Demo Screenshot**
 
-(Add your screenshot here)
-
 ```
-![App Screenshot](./screenshot.png)
+![App Screenshot](assets/AI_Job_Recommendation.png)
 ```
 
 ---
