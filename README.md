@@ -52,6 +52,7 @@ This makes it a **complete AI-powered career assistant**.
 
 ![App Screenshot](assets/AI_Job_Recommendation.png)
 ```
+```
 
 ---
 
